@@ -1,0 +1,156 @@
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Software need to install\extra but you can always use\Project with N Tier before modification\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Latest System Development\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\System Development Latest Projects\IRepositoryBeforeRenaming\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\usman\After Product Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project\After ForeignKey Model\IRepositoryBeforeRenaming\Project with N Tier After modification\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\Main Project 1\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly\Main Project 1\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\100% ok resuse everytime\Working at Home\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\cvv081\OneDrive - AFRY\Desktop\My all Project will Upload to GitHub\Until new Project Including Shopping Cart\this shoping the new one use this\try it newly Junaid\Main Project 1\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll

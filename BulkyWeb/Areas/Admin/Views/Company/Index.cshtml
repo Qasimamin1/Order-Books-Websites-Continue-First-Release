@@ -1,0 +1,63 @@
+﻿@model List<Company>
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-black alert-secondary bg-gradient m-lg-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">Company List</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body p-4">
+        <div class="row pt-4 pb-3">
+            <div class="col-6">
+                <h2 class="text-primary">
+                    Company List
+                </h2>
+            </div>
+            <div class="col-6 text-end">
+                <a asp-controller="Company" asp-action="Upsert" class="btn btn-primary">
+                    <i class="bi bi-plus-circle"></i> Create New Company
+                </a>
+            </div>
+        </div>
+
+
+        <table id="tblData" class="table table-bordered table-striped" style="width:100%" >
+            <thead>  
+                
+                <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>City</th>
+                    <th>State</th>
+                    <th>Phone Number</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var company in Model)
+                {
+                    <tr>
+                        <td>@company.Name</td>
+                        <td>@company.StreetAdress</td>
+                        <td>@company.City</td>
+                        <td>@company.State</td>
+                        <td>@company.PhoneNumber</td>
+                        <td>
+                            <!-- Edit Button -->
+                            <a href="@Url.Action("Upsert", "Company", new { id = company.Id }, null)" class="btn btn-primary">Edit</a>
+
+                            <!-- Delete Button -->
+                            <button type="button" class="btn btn-danger" onclick="deleteCompany(@company.Id)">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div> 
+@section Scripts {
+    <script src="~/js/company.js"></script>
+}
